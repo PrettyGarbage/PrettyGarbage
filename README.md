@@ -10,6 +10,7 @@
 <!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=utaite&langs_count=12&layout=compact&range=all_time)](https://wakatime.com/@dfd022b5-5fb8-4671-8787-d6ea7cca7720) -->
 
 <!-- BOJ -->
+### BOJ TIER
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=swifter)](https://solved.ac/swifter)
 
 ### Language
