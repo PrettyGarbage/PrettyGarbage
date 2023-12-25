@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
 </a>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- BOJ -->
 ### BOJ TIER
