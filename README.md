@@ -6,8 +6,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
 </a>
 
-<!--Wakatime stat 아래 참-->
-<!-- [![](https://github-readme-stats.vercel.app/api/wakatime?username=utaite&langs_count=12&layout=compact&range=all_time)](https://wakatime.com/@dfd022b5-5fb8-4671-8787-d6ea7cca7720) -->
+<!--START_SECTION:waka-->
+Name : GH_TOKEN
+Value : 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
+Name : WAKATIME_API_KEY
+Value : waka_9594323c-b593-4833-9b90-b4055d02a0ea
+<!--END_SECTION:waka-->
 
 <!-- BOJ -->
 ### BOJ TIER
