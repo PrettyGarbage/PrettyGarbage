@@ -6,12 +6,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
 </a>
 
-<!--START_SECTION:waka-->
-Name : GH_TOKEN
-Value : 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
-Name : WAKATIME_API_KEY
-Value : waka_9594323c-b593-4833-9b90-b4055d02a0ea
-<!--END_SECTION:waka-->
+
 
 <!-- BOJ -->
 ### BOJ TIER
