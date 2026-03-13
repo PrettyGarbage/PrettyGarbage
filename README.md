@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-764%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-7.83%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -27,22 +27,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-C#                       3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
-C++                      2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-XML                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Kotlin                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+C#                       3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.06 % 
+C++                      2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+XML                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Kotlin                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 🔥 에디터들: 
-Rider                    9 hrs 8 mins        █████████████████████████   100.00 % 
+Rider                    9 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  9 hrs 1 min         █████████████████████████   98.73 % 
-Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Windows                  9 hrs 18 mins       █████████████████████████   98.77 % 
+Mac                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
- Last Updated on 12/03/2026 18:45:44 UTC
+ Last Updated on 13/03/2026 18:44:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
