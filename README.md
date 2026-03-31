@@ -7,43 +7,12 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.57%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-**저는 저녁형 인간이에요. 🦉** 
 
-```text
-🌞 아침                     9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-🌆 낮　                     240 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
-🌃 저녁                     313 commits         █████████████░░░░░░░░░░░░   51.31 % 
-🌙 밤　                     48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-C++                      1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-C#                       1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Kotlin                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-XML                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Java                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-
-🔥 에디터들: 
-Rider                    5 hrs 53 mins       ████████████████████░░░░░   81.11 % 
-Android Studio           1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-
-💻 운영 체제들: 
-Windows                  7 hrs 2 mins        ████████████████████████░   97.12 % 
-Mac                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-```
-
-
- Last Updated on 30/03/2026 18:46:33 UTC
+ Last Updated on 31/03/2026 18:46:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
