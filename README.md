@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.57%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -27,23 +27,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.70 % 
-C++                      4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
-C/C                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Objective-C              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Kotlin                   7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
+C++                      5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Objective-C              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+C/C                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 에디터들: 
-Rider                    13 hrs 49 mins      ████████████████████████░   96.72 % 
-Android Studio           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Rider                    17 hrs 12 mins      ████████████████████████░   97.44 % 
+Android Studio           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 운영 체제들: 
-Windows                  13 hrs 16 mins      ███████████████████████░░   92.91 % 
-Mac                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Windows                  17 hrs 18 mins      ████████████████████████░   97.98 % 
+Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 
- Last Updated on 15/04/2026 18:50:44 UTC
+ Last Updated on 16/04/2026 18:50:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
