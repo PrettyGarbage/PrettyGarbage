@@ -7,43 +7,12 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.57%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 저녁형 인간이에요. 🦉** 
-
-```text
-🌞 아침                     9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-🌆 낮　                     240 commits         ██████████░░░░░░░░░░░░░░░   39.34 % 
-🌃 저녁                     313 commits         █████████████░░░░░░░░░░░░   51.31 % 
-🌙 밤　                     48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.59%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Kotlin                   7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
-C++                      5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Objective-C              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-C/C                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-
-🔥 에디터들: 
-Rider                    17 hrs 12 mins      ████████████████████████░   97.44 % 
-Android Studio           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-
-💻 운영 체제들: 
-Windows                  17 hrs 18 mins      ████████████████████████░   97.98 % 
-Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-```
-
-
- Last Updated on 16/04/2026 18:50:22 UTC
+ Last Updated on 17/04/2026 18:46:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
