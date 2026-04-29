@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.66%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -27,24 +27,24 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-uproject                 3 hrs 19 mins       █████████████░░░░░░░░░░░░   50.44 % 
-C++                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Objective-C++            50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-C#                       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+uproject                 2 hrs 54 mins       ██████████████░░░░░░░░░░░   57.51 % 
+C++                      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Kotlin                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 에디터들: 
-Rider                    5 hrs 55 mins       ██████████████████████░░░   89.81 % 
-Unknown Editor           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Android Studio           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Rider                    4 hrs 12 mins       █████████████████████░░░░   83.15 % 
+Unknown Editor           42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Android Studio           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 21 mins       █████████████████░░░░░░░░   66.17 % 
-Windows                  2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Mac                      2 hrs 44 mins       ██████████████░░░░░░░░░░░   54.28 % 
+Windows                  2 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.72 % 
 ```
 
 
- Last Updated on 28/04/2026 19:00:52 UTC
+ Last Updated on 29/04/2026 18:57:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
