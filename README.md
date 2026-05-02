@@ -9,10 +9,42 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.68%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-9.71%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+🌆 낮　                     240 commits         ██████████░░░░░░░░░░░░░░░   38.59 % 
+🌃 저녁                     320 commits         █████████████░░░░░░░░░░░░   51.45 % 
+🌙 밤　                     53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+```
 
 
- Last Updated on 01/05/2026 18:49:30 UTC
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+uproject                 1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+C++                      48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+uplugin                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+
+🔥 에디터들: 
+Rider                    2 hrs 26 mins       ████████████████░░░░░░░░░   63.63 % 
+Unknown Editor           1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.35 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 운영 체제들: 
+Windows                  2 hrs 1 min         █████████████░░░░░░░░░░░░   52.86 % 
+Mac                      1 hr 48 mins        ████████████░░░░░░░░░░░░░   47.14 % 
+```
+
+
+ Last Updated on 02/05/2026 18:45:41 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
