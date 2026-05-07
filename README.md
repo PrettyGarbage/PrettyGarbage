@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.80%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -27,23 +27,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-C++                      2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.79 % 
-Markdown                 1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-uplugin                  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+C++                      2 hrs 14 mins       ████████████░░░░░░░░░░░░░   47.87 % 
+Markdown                 1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+uplugin                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 에디터들: 
-Unknown Editor           3 hrs 18 mins       ████████████████░░░░░░░░░   62.30 % 
-Rider                    2 hrs               █████████░░░░░░░░░░░░░░░░   37.70 % 
+Unknown Editor           3 hrs               ████████████████░░░░░░░░░   63.95 % 
+Rider                    1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   36.05 % 
 
 💻 운영 체제들: 
-Windows                  3 hrs 46 mins       ██████████████████░░░░░░░   71.01 % 
-Mac                      1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Windows                  3 hrs 32 mins       ███████████████████░░░░░░   75.58 % 
+Mac                      1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
 ```
 
 
- Last Updated on 06/05/2026 19:04:21 UTC
+ Last Updated on 07/05/2026 19:04:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
