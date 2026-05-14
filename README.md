@@ -7,7 +7,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-10.89%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -27,22 +27,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-C++                      1 hr 56 mins        ████████████░░░░░░░░░░░░░   49.27 % 
-Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Python                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-C#                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Markdown                 1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   37.68 % 
+Python                   1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+Other                    1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 에디터들: 
-Unknown Editor           2 hrs 33 mins       ████████████████░░░░░░░░░   64.89 % 
-Rider                    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.11 % 
+Unknown Editor           4 hrs 20 mins       ████████████████████████░   96.34 % 
+Rider                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 운영 체제들: 
-Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2026 19:07:24 UTC
+ Last Updated on 14/05/2026 19:06:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
