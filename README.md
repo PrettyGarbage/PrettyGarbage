@@ -7,10 +7,43 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-11.00%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2016%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-11.05%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+🌆 낮　                     272 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
+🌃 저녁                     456 commits         █████████████░░░░░░░░░░░░   53.77 % 
+🌙 밤　                     105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+```
 
 
- Last Updated on 23/05/2026 18:47:29 UTC
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Markdown                 7 hrs 15 mins       ██████████████░░░░░░░░░░░   54.17 % 
+C#                       3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+C++                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+
+🔥 에디터들: 
+Claude Code              10 hrs 22 mins      ███████████████████░░░░░░   77.46 % 
+Rider                    3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+
+💻 운영 체제들: 
+Windows                  10 hrs 24 mins      ███████████████████░░░░░░   77.70 % 
+Mac                      2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+```
+
+
+ Last Updated on 24/05/2026 18:50:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
