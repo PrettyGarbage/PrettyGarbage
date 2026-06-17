@@ -7,17 +7,17 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-928%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-12.74%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-🌆 낮　                     322 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-🌃 저녁                     559 commits         ███████████░░░░░░░░░░░░░░   44.54 % 
-🌙 밤　                     278 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌞 아침                     100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+🌆 낮　                     324 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌃 저녁                     560 commits         ███████████░░░░░░░░░░░░░░   44.34 % 
+🌙 밤　                     279 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
 ```
 
 
@@ -27,24 +27,24 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 11 hrs 18 mins      █████████████░░░░░░░░░░░░   50.78 % 
-C++                      3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Other                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Objective-C++            1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-C#                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Markdown                 8 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
+Other                    3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+C++                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Objective-C++            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 에디터들: 
-Claude Code              15 hrs 50 mins      ██████████████████░░░░░░░   71.13 % 
-Rider                    4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Android Studio           1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Claude Code              15 hrs 9 mins       ███████████████████░░░░░░   77.77 % 
+Rider                    2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Android Studio           1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 💻 운영 체제들: 
-Mac                      16 hrs 10 mins      ██████████████████░░░░░░░   72.60 % 
-Windows                  6 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Windows                  11 hrs 38 mins      ███████████████░░░░░░░░░░   59.73 % 
+Mac                      7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.27 % 
 ```
 
 
- Last Updated on 16/06/2026 19:43:41 UTC
+ Last Updated on 17/06/2026 19:17:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
