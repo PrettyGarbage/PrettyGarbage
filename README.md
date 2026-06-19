@@ -7,44 +7,12 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-12.74%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
-
-**저는 저녁형 인간이에요. 🦉** 
-
-```text
-🌞 아침                     100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-🌆 낮　                     324 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌃 저녁                     560 commits         ███████████░░░░░░░░░░░░░░   44.34 % 
-🌙 밤　                     279 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-```
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-12.75%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Markdown                 6 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
-Other                    2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Python                   1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Objective-C++            1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Kotlin                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-
-🔥 에디터들: 
-Claude Code              12 hrs 26 mins      ███████████████████░░░░░░   76.48 % 
-Rider                    3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Android Studio           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-
-💻 운영 체제들: 
-Windows                  10 hrs 22 mins      ████████████████░░░░░░░░░   63.78 % 
-Mac                      5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
-```
-
-
- Last Updated on 18/06/2026 19:16:31 UTC
+ Last Updated on 19/06/2026 19:08:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
