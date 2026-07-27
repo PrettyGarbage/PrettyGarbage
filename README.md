@@ -7,7 +7,9 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2059%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-16.06%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -27,24 +29,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-C++                      2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-TOML                     2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Objective-C++            1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+TOML                     2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+C++                      1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Objective-C++            1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 에디터들: 
-Claude Code              7 hrs 57 mins       ████████████████░░░░░░░░░   62.33 % 
-Rider                    2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Android Studio           2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Claude Code              5 hrs 47 mins       ██████████████░░░░░░░░░░░   56.55 % 
+Rider                    2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Android Studio           2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 
 💻 운영 체제들: 
-Mac                      9 hrs 13 mins       ██████████████████░░░░░░░   72.29 % 
-Windows                  3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Mac                      6 hrs 42 mins       ████████████████░░░░░░░░░   65.46 % 
+Windows                  3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.54 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 1 min (78.45%)
+
+✍️ 1,108 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 76,419,788 Input Tokens, 364,386 Output Tokens
+
+💵 $98.86 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 98 AI Prompts
+
+Opus                     450 lines           █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 65 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:42:15 UTC
+ Last Updated on 27/07/2026 20:01:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
