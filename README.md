@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-🌆 낮　                     394 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-🌃 저녁                     880 commits         ███████████░░░░░░░░░░░░░░   42.66 % 
-🌙 밤　                     583 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+🌞 아침                     206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+🌆 낮　                     394 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+🌃 저녁                     888 commits         ███████████░░░░░░░░░░░░░░   42.88 % 
+🌙 밤　                     583 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 ```
 
 
@@ -29,47 +29,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 6 hrs 34 mins       ███████████████░░░░░░░░░░   60.57 % 
-Python                   2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-TOML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Objective-C++            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Markdown                 8 hrs 26 mins       █████████████░░░░░░░░░░░░   51.43 % 
+Python                   1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+TOML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+C#                       1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Objective-C++            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 에디터들: 
-Claude Code              9 hrs 47 mins       ███████████████████████░░   90.23 % 
-Android Studio           41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Rider                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              13 hrs 20 mins      ████████████████████░░░░░   81.39 % 
+Android Studio           1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Rider                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 운영 체제들: 
-Windows                  5 hrs 31 mins       █████████████░░░░░░░░░░░░   50.88 % 
-Mac                      5 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.12 % 
+Windows                  8 hrs 35 mins       █████████████░░░░░░░░░░░░   52.43 % 
+Mac                      7 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 30 mins (96.94%)
+⏱ AI Coding Time: 15 hrs 11 mins (92.65%)
 
-✍️ 3,474 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,316 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 348,893,658 Input Tokens, 647,195 Output Tokens
+🔤 407,643,333 Input Tokens, 1,006,348 Output Tokens
 
-💵 $1388.30 Estimated AI Cost This Week
+💵 $1417.27 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 130 AI Prompts
+🧠 18 AI Sessions, 176 AI Prompts
 
-Opus                     2,631 lines         █████████████████████████   100.00 % 
+Opus                     2,519 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 355 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 292 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 1.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 19:41:41 UTC
+ Last Updated on 04/08/2026 20:06:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
