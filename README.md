@@ -13,63 +13,8 @@
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-17.44%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-**저는 저녁형 인간이에요. 🦉** 
 
-```text
-🌞 아침                     206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-🌆 낮　                     394 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-🌃 저녁                     904 commits         ███████████░░░░░░░░░░░░░░   43.25 % 
-🌙 밤　                     586 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-C#                       3 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.07 % 
-Markdown                 2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-C++                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-
-🔥 에디터들: 
-Claude Code              6 hrs 51 mins       ███████████████████████░░   91.47 % 
-Rider                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-
-💻 운영 체제들: 
-Windows                  7 hrs 9 mins        ████████████████████████░   95.43 % 
-Mac                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 10 mins (95.55%)
-
-✍️ 1,254 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 151,663,985 Input Tokens, 394,572 Output Tokens
-
-💵 $928.99 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 76 AI Prompts
-
-Opus                     1,239 lines         ██████████████████████░░░   87.50 % 
-Fable                    177 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,257 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 12/08/2026 19:33:32 UTC
+ Last Updated on 13/08/2026 19:32:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
