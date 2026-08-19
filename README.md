@@ -7,9 +7,9 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-17.44%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -29,23 +29,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+TOML                     1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+Markdown                 1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Other                    52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Kotlin                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Java Properties          38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Claude Code              4 hrs 4 mins        █████████████████░░░░░░░░   67.50 % 
+Android Studio           1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Antigravity CLI          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Rider                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      3 hrs 26 mins       ██████████████░░░░░░░░░░░   57.02 % 
+Windows                  2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 hrs 26 mins (90.12%)
+
+✍️ 326 lines written by AI, 3 lines written by hand (99.09% AI-written)
+
+🔤 1,796,706 Input Tokens, 240,616 Output Tokens
+
+💵 $48.75 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 99 AI Prompts
+
+Sonnet                   195 lines           ██████████████░░░░░░░░░░░   57.18 % 
+Fable                    146 lines           ███████████░░░░░░░░░░░░░░   42.82 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.09% of written lines came from AI
+📝 Concise Prompter — average 473 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.73% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 19:04:55 UTC
+ Last Updated on 19/08/2026 19:00:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
