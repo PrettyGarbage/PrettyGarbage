@@ -29,35 +29,35 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TOML                     1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-Markdown                 1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Other                    52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Kotlin                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Java Properties          38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+TOML                     1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Kotlin                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Java Properties          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 🔥 에디터들: 
-Claude Code              4 hrs 4 mins        █████████████████░░░░░░░░   67.50 % 
-Android Studio           1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Antigravity CLI          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Rider                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Claude Code              4 hrs 6 mins        ███████████████░░░░░░░░░░   61.03 % 
+Android Studio           1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Rider                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Antigravity CLI          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 26 mins       ██████████████░░░░░░░░░░░   57.02 % 
-Windows                  2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.98 % 
+Mac                      4 hrs 8 mins        ███████████████░░░░░░░░░░   61.51 % 
+Windows                  2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 26 mins (90.12%)
+⏱ AI Coding Time: 5 hrs 43 mins (84.79%)
 
 ✍️ 326 lines written by AI, 3 lines written by hand (99.09% AI-written)
 
-🔤 1,796,706 Input Tokens, 240,616 Output Tokens
+🔤 1,808,911 Input Tokens, 242,268 Output Tokens
 
-💵 $48.75 Estimated AI Cost This Week
+💵 $48.82 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 99 AI Prompts
+🧠 9 AI Sessions, 107 AI Prompts
 
 Sonnet                   195 lines           ██████████████░░░░░░░░░░░   57.18 % 
 Fable                    146 lines           ███████████░░░░░░░░░░░░░░   42.82 % 
@@ -65,13 +65,13 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.09% of written lines came from AI
-📝 Concise Prompter — average 473 characters per prompt
+📝 Concise Prompter — average 442 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 1.73% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 19:00:22 UTC
+ Last Updated on 20/08/2026 19:08:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
