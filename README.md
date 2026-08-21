@@ -7,9 +7,9 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-17.44%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -29,49 +29,50 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TOML                     1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Kotlin                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Java Properties          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Markdown                 3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.86 % 
+TOML                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Python                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Kotlin                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔥 에디터들: 
-Claude Code              4 hrs 6 mins        ███████████████░░░░░░░░░░   61.03 % 
-Android Studio           1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Rider                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Antigravity CLI          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Claude Code              8 hrs 20 mins       ██████████████████░░░░░░░   71.66 % 
+Android Studio           1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Rider                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Antigravity CLI          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 8 mins        ███████████████░░░░░░░░░░   61.51 % 
-Windows                  2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+Windows                  6 hrs 17 mins       ██████████████░░░░░░░░░░░   54.09 % 
+Mac                      5 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (84.79%)
+⏱ AI Coding Time: 10 hrs 12 mins (87.8%)
 
-✍️ 326 lines written by AI, 3 lines written by hand (99.09% AI-written)
+✍️ 1,451 lines written by AI, 3 lines written by hand (99.79% AI-written)
 
-🔤 1,808,911 Input Tokens, 242,268 Output Tokens
+🔤 3,084,318 Input Tokens, 461,521 Output Tokens
 
-💵 $48.82 Estimated AI Cost This Week
+💵 $150.55 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 107 AI Prompts
+🧠 12 AI Sessions, 131 AI Prompts
 
-Sonnet                   195 lines           ██████████████░░░░░░░░░░░   57.18 % 
-Fable                    146 lines           ███████████░░░░░░░░░░░░░░   42.82 % 
+Fable                    1,318 lines         ██████████████████████░░░   87.11 % 
+Sonnet                   195 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.09% of written lines came from AI
-📝 Concise Prompter — average 442 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.73% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📄 Detailed Prompter — average 790 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 19:08:39 UTC
+ Last Updated on 21/08/2026 19:04:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
