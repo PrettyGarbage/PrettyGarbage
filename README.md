@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-🌆 낮　                     404 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-🌃 저녁                     953 commits         ███████████░░░░░░░░░░░░░░   43.92 % 
-🌙 밤　                     607 commits         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌞 아침                     206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+🌆 낮　                     404 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+🌃 저녁                     955 commits         ███████████░░░░░░░░░░░░░░   43.97 % 
+🌙 밤　                     607 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 ```
 
 
@@ -29,49 +29,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 9 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.35 % 
-Other                    2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-C#                       2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-C++                      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Python                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Markdown                 8 hrs 22 mins       █████████████░░░░░░░░░░░░   50.07 % 
+Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+C++                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 에디터들: 
-Claude Code              18 hrs 14 mins      █████████████████████░░░░   82.58 % 
-Rider                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Antigravity CLI          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              13 hrs 29 mins      ████████████████████░░░░░   80.65 % 
+Rider                    2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Antigravity CLI          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 운영 체제들: 
-Windows                  18 hrs 18 mins      █████████████████████░░░░   82.93 % 
-Mac                      3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Windows                  12 hrs 57 mins      ███████████████████░░░░░░   77.46 % 
+Mac                      3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 19 mins (96.58%)
+⏱ AI Coding Time: 16 hrs 26 mins (98.32%)
 
-✍️ 6,786 lines written by AI, 19 lines written by hand (99.72% AI-written)
+✍️ 6,276 lines written by AI, 18 lines written by hand (99.71% AI-written)
 
-🔤 11,390,885 Input Tokens, 1,578,038 Output Tokens
+🔤 9,488,952 Input Tokens, 1,358,416 Output Tokens
 
-💵 $413.23 Estimated AI Cost This Week
+💵 $361.57 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 277 AI Prompts
+🧠 32 AI Sessions, 227 AI Prompts
 
-Fable                    3,720 lines         █████████████░░░░░░░░░░░░   52.20 % 
-Opus                     3,406 lines         ████████████░░░░░░░░░░░░░   47.80 % 
+Fable                    3,494 lines         █████████████░░░░░░░░░░░░   52.88 % 
+Opus                     3,113 lines         ████████████░░░░░░░░░░░░░   47.12 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📝 Concise Prompter — average 332 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+🤖 AI-Driven — 99.71% of written lines came from AI
+📝 Concise Prompter — average 280 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 21:17:44 UTC
+ Last Updated on 31/08/2026 22:58:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
