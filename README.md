@@ -29,49 +29,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 8 hrs 22 mins       █████████████░░░░░░░░░░░░   50.07 % 
-Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-C++                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown                 6 hrs 39 mins       █████████████░░░░░░░░░░░░   52.28 % 
+C++                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 에디터들: 
-Claude Code              13 hrs 29 mins      ████████████████████░░░░░   80.65 % 
-Rider                    2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Antigravity CLI          59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Claude Code              10 hrs 7 mins       ████████████████████░░░░░   79.50 % 
+Rider                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Antigravity CLI          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 운영 체제들: 
-Windows                  12 hrs 57 mins      ███████████████████░░░░░░   77.46 % 
-Mac                      3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Windows                  8 hrs 58 mins       ██████████████████░░░░░░░   70.42 % 
+Mac                      3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 26 mins (98.32%)
+⏱ AI Coding Time: 12 hrs 29 mins (97.99%)
 
-✍️ 6,276 lines written by AI, 18 lines written by hand (99.71% AI-written)
+✍️ 4,535 lines written by AI, 14 lines written by hand (99.69% AI-written)
 
-🔤 9,488,952 Input Tokens, 1,358,416 Output Tokens
+🔤 8,589,762 Input Tokens, 1,104,157 Output Tokens
 
-💵 $361.57 Estimated AI Cost This Week
+💵 $276.83 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 227 AI Prompts
+🧠 28 AI Sessions, 184 AI Prompts
 
-Fable                    3,494 lines         █████████████░░░░░░░░░░░░   52.88 % 
-Opus                     3,113 lines         ████████████░░░░░░░░░░░░░   47.12 % 
+Opus                     3,113 lines         ████████████████░░░░░░░░░   64.88 % 
+Fable                    1,685 lines         █████████░░░░░░░░░░░░░░░░   35.12 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📝 Concise Prompter — average 280 characters per prompt
+🤖 AI-Driven — 99.69% of written lines came from AI
+📝 Concise Prompter — average 262 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 22:58:14 UTC
+ Last Updated on 01/09/2026 21:11:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
