@@ -17,9 +17,9 @@
 
 ```text
 🌞 아침                     206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-🌆 낮　                     404 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-🌃 저녁                     955 commits         ███████████░░░░░░░░░░░░░░   43.97 % 
-🌙 밤　                     607 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌆 낮　                     404 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+🌃 저녁                     956 commits         ███████████░░░░░░░░░░░░░░   43.97 % 
+🌙 밤　                     608 commits         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
 ```
 
 
@@ -29,49 +29,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 6 hrs 39 mins       █████████████░░░░░░░░░░░░   52.28 % 
-C++                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Markdown                 7 hrs 1 min         ████████████████░░░░░░░░░   62.14 % 
+C++                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+C#                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 에디터들: 
-Claude Code              10 hrs 7 mins       ████████████████████░░░░░   79.50 % 
-Rider                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Antigravity CLI          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Claude Code              9 hrs 37 mins       █████████████████████░░░░   85.19 % 
+Rider                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 운영 체제들: 
-Windows                  8 hrs 58 mins       ██████████████████░░░░░░░   70.42 % 
-Mac                      3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Windows                  5 hrs 55 mins       █████████████░░░░░░░░░░░░   52.47 % 
+Mac                      5 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 29 mins (97.99%)
+⏱ AI Coding Time: 11 hrs 3 mins (97.77%)
 
-✍️ 4,535 lines written by AI, 14 lines written by hand (99.69% AI-written)
+✍️ 4,141 lines written by AI, 15 lines written by hand (99.64% AI-written)
 
-🔤 8,589,762 Input Tokens, 1,104,157 Output Tokens
+🔤 8,815,517 Input Tokens, 984,180 Output Tokens
 
-💵 $276.83 Estimated AI Cost This Week
+💵 $217.92 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 184 AI Prompts
+🧠 22 AI Sessions, 146 AI Prompts
 
-Opus                     3,113 lines         ████████████████░░░░░░░░░   64.88 % 
-Fable                    1,685 lines         █████████░░░░░░░░░░░░░░░░   35.12 % 
+Opus                     2,920 lines         █████████████████░░░░░░░░   69.38 % 
+Fable                    1,289 lines         ████████░░░░░░░░░░░░░░░░░   30.62 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📝 Concise Prompter — average 262 characters per prompt
+🤖 AI-Driven — 99.64% of written lines came from AI
+📝 Concise Prompter — average 281 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 21:11:23 UTC
+ Last Updated on 02/09/2026 21:11:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- BOJ -->
