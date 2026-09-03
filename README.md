@@ -74,10 +74,6 @@ Haiku                    0 lines             ░░░░░░░░░░░�
  Last Updated on 02/09/2026 21:11:01 UTC
 <!--END_SECTION:waka-->
 
-<!-- BOJ -->
-### BOJ TIER
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=swifter)](https://solved.ac/swifter)
-
 ### Language
 <a href="https://java.com">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
