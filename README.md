@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌆 낮　                     476 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-🌃 저녁                     1159 commits        ███████████░░░░░░░░░░░░░░   43.67 % 
-🌙 밤　                     794 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌞 아침                     230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 낮　                     478 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌃 저녁                     1164 commits        ███████████░░░░░░░░░░░░░░   43.61 % 
+🌙 밤　                     797 commits         ███████░░░░░░░░░░░░░░░░░░   29.86 % 
 ```
 
 
@@ -29,49 +29,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 10 hrs 59 mins      ████████████████░░░░░░░░░   62.92 % 
-Bash                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-C#                       1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Markdown                 11 hrs 45 mins      ████████████████░░░░░░░░░   63.98 % 
+Bash                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+HTML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+C#                       1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 에디터들: 
-Claude Code              17 hrs 17 mins      █████████████████████████   99.05 % 
-Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Rider                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              18 hrs 12 mins      █████████████████████████   99.10 % 
+Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Rider                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 운영 체제들: 
-Mac                      17 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 22 mins (100.0%)
 
-✍️ 17,635 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,156 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 47,209,906 Input Tokens, 4,090,428 Output Tokens
+🔤 48,839,437 Input Tokens, 4,228,746 Output Tokens
 
-💵 $869.80 Estimated AI Cost This Week
+💵 $899.13 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 142 AI Prompts
+🧠 17 AI Sessions, 151 AI Prompts
 
-Opus                     16,637 lines        ███████████████████████░░   93.29 % 
-Sonnet                   810 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Fable                    387 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Opus                     17,158 lines        ███████████████████████░░   93.48 % 
+Sonnet                   810 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Fable                    387 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
+📝 Concise Prompter — average 365 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/09/2026 21:03:59 UTC
+ Last Updated on 19/09/2026 20:53:02 UTC
 <!--END_SECTION:waka-->
 
 ### Language
