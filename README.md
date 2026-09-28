@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-🌆 낮　                     533 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-🌃 저녁                     1149 commits        ██████████░░░░░░░░░░░░░░░   41.98 % 
-🌙 밤　                     788 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌞 아침                     269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+🌆 낮　                     535 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+🌃 저녁                     1149 commits        ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌙 밤　                     788 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
 ```
 
 
@@ -29,50 +29,50 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Bash                     2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
-Markdown                 1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Other                    1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-HTML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Bash                     3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
+Markdown                 2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+C                        57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 🔥 에디터들: 
-Claude Code              5 hrs 56 mins       ███████████████████░░░░░░   75.44 % 
-Rider                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Codex Vscode             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Claude Code              7 hrs 37 mins       ████████████████████░░░░░   79.41 % 
+Rider                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Android Studio           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 32 mins       ██████████████░░░░░░░░░░░   57.67 % 
-Windows                  3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.33 % 
+Mac                      5 hrs 52 mins       ███████████████░░░░░░░░░░   61.30 % 
+Windows                  3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 35 mins (96.39%)
+⏱ AI Coding Time: 8 hrs 2 mins (83.8%)
 
-✍️ 1,058 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,513 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,951,366 Input Tokens, 706,011 Output Tokens
+🔤 8,483,802 Input Tokens, 835,797 Output Tokens
 
-💵 $114.39 Estimated AI Cost This Week
+💵 $189.85 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 126 AI Prompts
+🧠 18 AI Sessions, 111 AI Prompts
 
-Fable                    892 lines           █████████████████████░░░░   83.21 % 
-GPT                      180 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     898 lines           ███████████████░░░░░░░░░░   59.08 % 
+Fable                    622 lines           ██████████░░░░░░░░░░░░░░░   40.92 % 
+Oss                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,264 characters per prompt
+📄 Detailed Prompter — average 1,403 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 21:30:24 UTC
+ Last Updated on 28/09/2026 23:25:41 UTC
 <!--END_SECTION:waka-->
 
 ### Language
