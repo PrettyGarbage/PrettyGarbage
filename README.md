@@ -7,9 +7,9 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C114%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-312%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-20.35%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -29,36 +29,36 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-C#                       10 hrs 26 mins      ████████████░░░░░░░░░░░░░   49.08 % 
-Markdown                 2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-HTML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Other                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-XML                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Markdown                 2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+HTML                     2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Other                    1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+C#                       1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+XML                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 
 🔥 에디터들: 
-Claude Code              18 hrs 18 mins      ██████████████████████░░░   86.00 % 
-Codex CLI                1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Rider                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Android Studio           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Claude Code              8 hrs 56 mins       ███████████████████░░░░░░   74.98 % 
+Codex CLI                1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Rider                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Android Studio           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Codex Vscode             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 운영 체제들: 
-Windows                  15 hrs 42 mins      ██████████████████░░░░░░░   73.78 % 
-Mac                      5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Windows                  6 hrs 20 mins       █████████████░░░░░░░░░░░░   53.18 % 
+Mac                      5 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 45 mins (97.48%)
+⏱ AI Coding Time: 11 hrs 23 mins (95.48%)
 
 ✍️ 6,186 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 54,718,165 Input Tokens, 2,270,476 Output Tokens
+🔤 24,584,753 Input Tokens, 2,177,223 Output Tokens
 
-💵 $529.20 Estimated AI Cost This Week
+💵 $323.08 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 144 AI Prompts
+🧠 23 AI Sessions, 143 AI Prompts
 
 Opus                     6,281 lines         █████████████████████████   99.94 % 
 GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
@@ -67,13 +67,13 @@ Oss                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,125 characters per prompt
+📚 Verbose Prompter — average 2,106 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 22:26:17 UTC
+ Last Updated on 01/10/2026 22:49:30 UTC
 <!--END_SECTION:waka-->
 
 ### Language
