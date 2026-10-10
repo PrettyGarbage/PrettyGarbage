@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-🌆 낮　                     645 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-🌃 저녁                     1358 commits        ███████████░░░░░░░░░░░░░░   42.64 % 
-🌙 밤　                     864 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+🌞 아침                     318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+🌆 낮　                     640 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+🌃 저녁                     1356 commits        ███████████░░░░░░░░░░░░░░   42.67 % 
+🌙 밤　                     864 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
 ```
 
 
@@ -29,48 +29,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   8 hrs 1 min         ███████████████████░░░░░░   74.02 % 
-Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Kotlin                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Python                   4 hrs 53 mins       ████████████████░░░░░░░░░   64.68 % 
+Markdown                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Kotlin                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 에디터들: 
-Claude Code              10 hrs 37 mins      █████████████████████████   98.06 % 
-Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Claude Code              7 hrs 21 mins       ████████████████████████░   97.22 % 
+Codex Vscode             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Rider                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 운영 체제들: 
-Windows                  10 hrs 7 mins       ███████████████████████░░   93.47 % 
-Mac                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Windows                  6 hrs 51 mins       ███████████████████████░░   90.64 % 
+Mac                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 46 mins (99.52%)
+⏱ AI Coding Time: 7 hrs 30 mins (99.32%)
 
-✍️ 3,147 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,247 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 26,216,303 Input Tokens, 208,801 Output Tokens
+🔤 21,175,555 Input Tokens, 198,219 Output Tokens
 
-💵 $152.60 Estimated AI Cost This Week
+💵 $125.87 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 57 AI Prompts
+🧠 7 AI Sessions, 56 AI Prompts
 
-Opus                     3,147 lines         █████████████████████████   100.00 % 
+Opus                     2,247 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,540 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 1,430 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 22:47:57 UTC
+ Last Updated on 10/10/2026 21:54:48 UTC
 <!--END_SECTION:waka-->
 
 ### Language
