@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-🌆 낮　                     1091 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-🌃 저녁                     2132 commits        ███████████░░░░░░░░░░░░░░   42.41 % 
-🌙 밤　                     1286 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌞 아침                     518 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+🌆 낮　                     1094 commits        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌃 저녁                     2135 commits        ███████████░░░░░░░░░░░░░░   42.42 % 
+🌙 밤　                     1286 commits        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
 ```
 
 
@@ -29,49 +29,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Markdown                 2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-C++                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Other                    1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+C++                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Bash                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 
 🔥 에디터들: 
-Claude Code              10 hrs 57 mins      ██████████████████████░░░   87.37 % 
-Rider                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Claude Code              6 hrs 45 mins       █████████████████████░░░░   84.70 % 
+Rider                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 5 mins        ██████████████░░░░░░░░░░░   56.54 % 
-Windows                  5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.46 % 
+Windows                  4 hrs 10 mins       █████████████░░░░░░░░░░░░   52.31 % 
+Mac                      3 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 13 mins (97.48%)
+⏱ AI Coding Time: 7 hrs 41 mins (96.31%)
 
-✍️ 4,671 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 4,444 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 10,919,353 Input Tokens, 960,255 Output Tokens
+🔤 8,581,855 Input Tokens, 726,071 Output Tokens
 
-💵 $117.01 Estimated AI Cost This Week
+💵 $82.00 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 182 AI Prompts
+🧠 18 AI Sessions, 123 AI Prompts
 
-Sonnet                   3,835 lines         █████████████████████░░░░   82.05 % 
-Opus                     417 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-GPT                      393 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Fable                    29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Sonnet                   3,835 lines         ██████████████████████░░░   86.24 % 
+GPT                      393 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Opus                     203 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Fable                    16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 687 characters per prompt
+📄 Detailed Prompter — average 875 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 21:02:17 UTC
+ Last Updated on 26/10/2026 22:49:33 UTC
 <!--END_SECTION:waka-->
 
 ### Language
