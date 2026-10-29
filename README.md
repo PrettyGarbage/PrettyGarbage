@@ -16,10 +16,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌆 낮　                     789 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-🌃 저녁                     1512 commits        ██████████░░░░░░░░░░░░░░░   41.57 % 
-🌙 밤　                     954 commits         ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌞 아침                     382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+🌆 낮　                     794 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+🌃 저녁                     1526 commits        ██████████░░░░░░░░░░░░░░░   41.72 % 
+🌙 밤　                     956 commits         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 ```
 
 
@@ -29,48 +29,48 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.27 % 
-Python                   1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-C++                      1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Text                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+C++                      1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Other                    1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Text                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🔥 에디터들: 
-Claude Code              5 hrs 8 mins        █████████████████░░░░░░░░   68.58 % 
-Rider                    2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Claude Code              4 hrs 8 mins        █████████████████████░░░░   82.94 % 
+Rider                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
 
 💻 운영 체제들: 
-Mac                      7 hrs 12 mins       ████████████████████████░   96.13 % 
-Windows                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Mac                      4 hrs 41 mins       ████████████████████████░   94.18 % 
+Windows                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 3 mins (94.14%)
+⏱ AI Coding Time: 4 hrs 32 mins (91.19%)
 
-✍️ 1,661 lines written by AI, 4 lines written by hand (99.76% AI-written)
+✍️ 1,064 lines written by AI, 4 lines written by hand (99.63% AI-written)
 
-🔤 6,473,160 Input Tokens, 543,073 Output Tokens
+🔤 4,201,517 Input Tokens, 292,443 Output Tokens
 
-💵 $76.04 Estimated AI Cost This Week
+💵 $57.44 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 110 AI Prompts
+🧠 11 AI Sessions, 53 AI Prompts
 
-Fable                    609 lines           █████████░░░░░░░░░░░░░░░░   35.99 % 
-GPT                      605 lines           █████████░░░░░░░░░░░░░░░░   35.76 % 
-Opus                     478 lines           ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Fable                    609 lines           ██████████████░░░░░░░░░░░   55.72 % 
+Opus                     478 lines           ███████████░░░░░░░░░░░░░░   43.73 % 
+GPT                      6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📄 Detailed Prompter — average 602 characters per prompt
+🤖 AI-Driven — 99.63% of written lines came from AI
+📄 Detailed Prompter — average 1,120 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 22:45:36 UTC
+ Last Updated on 29/10/2026 22:54:42 UTC
 <!--END_SECTION:waka-->
 
 ### Language
